@@ -1,0 +1,114 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: black;
+    margin: auto;
+}
+.sosmed {
+    color: white;
+    position: relative;
+    padding-left: 600px;
+    padding-bottom: 15px;
+    -webkit-text-stroke: 1px cyan;
+}
+.container {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.card1 {
+    height: 200px;
+    background: white;
+    border: 5px solid cyan;
+    border-radius: 10px;
+    margin: 0px 15px 0px 0px;
+}
+.card1H {
+    font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', sans-serif;
+    padding-right: 15px;
+    padding-left: 20px;
+}
+.card2 {
+    height: 200px;
+    background: white;
+    border: 5px solid cyan;
+    border-radius: 10px;
+    margin: 0px 15px 0px 15px;
+}
+.card2H {
+    font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', sans-serif;
+    padding-right: 50px;
+    padding-left: 55px;
+}
+.card3 {
+    height: 200px;
+    background: white;
+    border: 5px solid cyan;
+    border-radius: 10px;
+    margin: 0px 15px 0px 15px;
+}
+.card3H {
+    font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', sans-serif;
+    padding-right: 15px;
+    padding-left: 35px;
+}
+.card4 {
+    height: 200px;
+    background: white;
+    border: 5px solid cyan;
+    border-radius: 10px;
+    margin: 0px 0px 0px 15px;
+}
+.card4H {
+    font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', sans-serif;
+    padding-right: 15px;
+    padding-left: 25px;
+}
+.icons {
+    font-size: 24px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.p1n2 {
+    padding: 10px 20px 7px 30px;
+}
+.p3 {
+    padding: 10px 30px 7px 35px;
+}
+.p4 {
+    padding: 10px 30px 7px 35px;
+}
+button {
+    padding: 10px 30px 7px 30px;
+    background-color: black;
+    margin: 10px 30px 7px 70px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: blue;
+    text-decoration: none;
+}
+.by {
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 25px;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lobster', sans-serif;
+}
+a {
+    color: white;
+}
